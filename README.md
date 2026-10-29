@@ -2,4 +2,4 @@
 
 <div align="center">
 
-${\textsf{\color{#3d3d3f}Me}}$ ${\textsf{\color{#dab965}Lucy}}$
+${\textsf{\color{#3d3d3f}Me and}}$ ${\textsf{\color{#dab965}Lucy}}$
