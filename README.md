@@ -6,7 +6,7 @@
 
 <div align="center">
 
-${\textsf{\color{#3d3d3f}Me}}$ ${\textsf{\color{#5f9db8}and}}$ ${\textsf{\color{#dab965}Lucy}}$
+${\textsf{\color{#3d3d3f}𝖬౿}}$ ${\textsf{\color{#5f9db8}ɑ𐓣ᑯ}}$ ${\textsf{\color{#dab965}𝖫υɕɣ ♡♡}}$
 
 
-# ${\textsf{\color{#3d3d3f}!! . Wip . !!}}$
+# ${\textsf{\color{#3d3d3f}!! . ωιρ . !!}}$
